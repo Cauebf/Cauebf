@@ -52,11 +52,12 @@
   <img width="5" />
 
   <!-- IDEs -->
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" height="25" alt="IntelliJ logo" />
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" height="25" alt="intelliJ logo" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" height="25" alt="eclipse logo">
   <img width="5" />
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" height="25" alt="Visual Studio Code logo" />
 </div>
-
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="90"> About me 
 
