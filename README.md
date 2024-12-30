@@ -63,7 +63,7 @@
 
 <img align="right" height="275" width="375" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/49abd3ca-b048-4f27-b7e0-ea6a7b172ac3">
 
-- 🌱 I’m currently learning **Java**.
+- 🌱 I’m currently learning **Next.js**.
 
 - 💻 Passionate about **technology** and **innovation**.  
 
