@@ -61,9 +61,9 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" height="25" alt="Visual Studio Code logo" />
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="90"> About me 
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="35"> About me 
 
-<img align="right" height="275" width="375" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/49abd3ca-b048-4f27-b7e0-ea6a7b172ac3">
+<img align="right" height="275" width="375" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - 🌱 I’m currently learning **Next.js**.
 
@@ -72,10 +72,10 @@
 - 🧠 Always eager to absorb new **knowledge**.
   
 - 💡 Turning ideas into creative **solutions**.
-
-- 🌟 Striving to make a positive **impact**.
   
-- 📚 **Lifelong learner** and avid **reader**.
+- 📚 **Lifelong learner** always exploring new **technologies**.
+
+- 🎮 I have a passion for **gaming** in my free time.
 
 - ☕ Fuelled by **coffee** and a sprinkle of **creativity**.
   
