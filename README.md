@@ -39,6 +39,8 @@
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" height="25" alt="postgresql logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" height="25" alt="mongodb logo" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" height="25" alt="redis logo" />
   
   <!-- Testing & Automation -->
   <img width="5" />
@@ -47,8 +49,6 @@
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff" height="25" alt="jest logo" />
   
   <!-- Programming Languages -->
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" height="25" alt="lua logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" height="25" alt="java logo">
   <img width="5" />
