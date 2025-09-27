@@ -22,11 +22,13 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" height="25" alt="html logo" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" height="25" alt="css logo" />
+  <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" height="25" alt="css logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="25" alt="tailwindcss logo" />
   
   <!-- Backend Technologies -->
+  <img width="5" />
+  <img src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white" height="25" alt="php logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" height="25" alt="nodejs logo" />
   <img width="5" />
