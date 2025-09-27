@@ -12,14 +12,14 @@
 
 <div align="center">
   <!-- Frontend Technologies -->
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff" height="27" alt="Next.js logo" />
-  <img width="5" />  
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" height="25" alt="typescript logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="25" alt="javascript logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="25" alt="react logo" />
   <img width="5" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff" height="27" alt="Next.js logo" />
+  <img width="5" />  
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" height="25" alt="html logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" height="25" alt="css logo" />
