@@ -51,6 +51,8 @@
   <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff" height="25" alt="cypress logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff" height="25" alt="jest logo" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="25" alt="postman logo" />
   
   <!-- IDEs -->
   <img width="5" />
