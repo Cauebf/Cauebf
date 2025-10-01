@@ -88,7 +88,7 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30"> Github Status
 <div align="center">
   <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Cauebf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauebf&layout=compact&theme=tokyonight">
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauebf&layout=compact&theme=tokyonight&langs_count=8&hide=shell,hack">
 </div>
 
 
