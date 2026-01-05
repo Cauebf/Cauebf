@@ -71,15 +71,15 @@
 
 - 💻 Passionate about **technology** and **innovation**.  
 
-- 🧠 Always eager to absorb new **knowledge**.
+- 🧠 **Self-taught**, always learning and improving.
   
 - 💡 Turning ideas into creative **solutions**.
   
-- 📚 **Lifelong learner** always exploring new **technologies**.
+- 📚 Exploring new **technologies** and **best practices**.
 
-- 🎮 I have a passion for **gaming** in my free time.
+- 🧩 I have a passion for **reading books** and **gaming** in my free time.
 
-- ☕ Fuelled by **coffee** and a sprinkle of **creativity**.
+- ☕ Curious, disciplined, and **coffee-driven**.
   
 
 <br>
