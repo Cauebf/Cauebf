@@ -77,7 +77,7 @@
   
 - 📚 Exploring new **technologies** and **best practices**.
 
-- 🧩 I have a passion for **reading books** and **gaming** in my free time.
+- 🧩 I enjoy **reading books** and **gaming** in my free time.
 
 - ☕ Curious, disciplined, and **coffee-driven**.
   
