@@ -26,15 +26,19 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="25" alt="tailwindcss logo" />
   
-  <!-- Backend Technologies -->
-  <img width="5" />
-  <img src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white" height="25" alt="php logo" />
+  <!-- Backend Technologies -->  
   <img width="5" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" height="25" alt="nodejs logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" height="25" alt="express logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" height="25" alt="java logo">
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" height="25" alt="spring logo" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" height="25" alt="spring boot logo" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white" height="25" alt="php logo" />
   
   <!-- Databases -->
   <img width="5" />
