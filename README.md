@@ -65,6 +65,12 @@
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" height="25" alt="eclipse logo">
   <img width="5" />
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" height="25" alt="Visual Studio Code logo" />
+
+  <!-- Operating Systems -->
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" height="25" alt="windows logo" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000" height="25" alt="linux logo" />
 </div>
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="35"> About me 
