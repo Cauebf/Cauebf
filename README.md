@@ -39,6 +39,10 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" height="25" alt="spring boot logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white" height="25" alt="php logo" />
+
+  <!-- DevOps & Infrastructure -->
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="25" alt="docker logo" />
   
   <!-- Databases -->
   <img width="5" />
