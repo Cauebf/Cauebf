@@ -101,8 +101,8 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30"> Github Status
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Cauebf&show_icons=true&include_all_commits=true&count_private=true&theme=ayu-mirage&title_color=ea8453&text_color=f0f6fc&icon_color=e78f63&ring_color=ea8453&border_color=30363d" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Cauebf&layout=compact&langs_count=8&hide=hack&theme=ayu-mirage&title_color=ea8453&text_color=f0f6fc&icon_color=7aa2f7&border_color=30363d" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Cauebf&show_icons=true&include_all_commits=true&count_private=true&theme=one_dark_pro&title_color=ea8453&text_color=f0f6fc&icon_color=e78f63&ring_color=ea8453&border_color=30363d" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Cauebf&layout=compact&langs_count=8&hide=hack&theme=one_dark_pro&title_color=ea8453&text_color=f0f6fc&icon_color=7aa2f7&border_color=30363d" />
 </div>
 
 
