@@ -1,11 +1,11 @@
-<div id="user-content-toc">
-  <ul align="center">
+<div id="user-content-toc" align="center">
+  <ul style="list-style: none;">
     <summary><h1 style="display: inline-block"> Hello , I'm Cauê <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></summary>
   </ul>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&weight=500&size=25&pause=1000&color=ea8453&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&weight=500&size=25&pause=1000&color=ea8453&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <br>
