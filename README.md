@@ -82,7 +82,7 @@
 
 <img align="right" height="275" width="335" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58">
 
-- 🌱 I’m currently learning **GitHub Actions**.
+- 🌱 I’m currently learning **Game Development**.
 
 - 💻 Passionate about **technology** and **innovation**.  
 
